@@ -1,0 +1,520 @@
+{
+    "users": {
+        "Adelaide Costa": {
+            "perfil": "Cadeira de Rodas",
+            "pontos": 1580
+        },
+        "Amália Rodrigues": {
+            "perfil": "Idoso",
+            "pontos": 50
+        },
+        "António Martins": {
+            "perfil": "Muletas",
+            "pontos": 200
+        },
+        "Beatriz Almeida": {
+            "perfil": "Grávida",
+            "pontos": 310
+        },
+        "Carlos Santos": {
+            "perfil": "Cardiopata",
+            "pontos": 0
+        },
+        "Clara Rodrigues": {
+            "perfil": "Asma",
+            "pontos": 80
+        },
+        "Cristiano Ronaldo": {
+            "perfil": "Jovem Saudável",
+            "pontos": 1500
+        },
+        "Cristina Ferreira": {
+            "perfil": "Invisual",
+            "pontos": 45
+        },
+        "Daniel Oliveira": {
+            "perfil": "Doença Articular",
+            "pontos": 90
+        },
+        "Eusébio Silva": {
+            "perfil": "Lesão Temporária",
+            "pontos": 300
+        },
+        "Fernando Mendes": {
+            "perfil": "Sedentário",
+            "pontos": 15
+        },
+        "Helena Matos": {
+            "perfil": "Criança",
+            "pontos": 400
+        },
+        "Inês Ferreira": {
+            "perfil": "Asma",
+            "pontos": 20
+        },
+        "Joana Soares": {
+            "perfil": "Idoso",
+            "pontos": 110
+        },
+        "Joaquim de Almeida": {
+            "perfil": "Cardiopata",
+            "pontos": 0
+        },
+        "Luís Lima": {
+            "perfil": "Baixa Visão",
+            "pontos": 250
+        },
+        "Manuel Pinto": {
+            "perfil": "Obesidade",
+            "pontos": 60
+        },
+        "Maria Silva": {
+            "perfil": "Grávida",
+            "pontos": 140
+        },
+        "Marta Pereira": {
+            "perfil": "Cadeira de Rodas",
+            "pontos": 5
+        },
+        "Miguel Oliveira": {
+            "perfil": "Jovem Saudável",
+            "pontos": 890
+        },
+        "Paulo Bento": {
+            "perfil": "Lesão Temporária",
+            "pontos": 40
+        },
+        "Pedro Rocha": {
+            "perfil": "Autismo",
+            "pontos": 170
+        },
+        "Ricardo Jorge": {
+            "perfil": "Fibromialgia",
+            "pontos": 220
+        },
+        "Rosa Mota": {
+            "perfil": "Jovem Saudável",
+            "pontos": 1200
+        },
+        "Rui Gonçalves": {
+            "perfil": "Idoso",
+            "pontos": 130
+        },
+        "Sara Sampaio": {
+            "perfil": "Vertigens",
+            "pontos": 35
+        },
+        "Sofia Pereira": {
+            "perfil": "Surdez",
+            "pontos": 450
+        },
+        "Sónia Abrantes": {
+            "perfil": "Défice Cognitivo",
+            "pontos": 80
+        },
+        "Tiago Silva": {
+            "perfil": "Diabetes",
+            "pontos": 500
+        },
+        "Vítor Baía": {
+            "perfil": "Cardiopata",
+            "pontos": 75
+        },
+        "Michael Jackson": {
+            "perfil": "Jovem Saudável",
+            "pontos": 335
+        },
+        "Marcelo Sousa": {
+            "perfil": "Asma",
+            "pontos": 0
+        },
+        "Cavaco Silva": {
+            "perfil": "Asma",
+            "pontos": 590
+        },
+        "Duarte Matos": {
+            "perfil": "Asma",
+            "pontos": 590
+        },
+        "Afonso Faria": {
+            "perfil": "Jovem Saudável",
+            "pontos": 565
+        }
+    },
+    "paths": [
+        {
+            "nome": "Alameda do Rio",
+            "origem": "Rio Este",
+            "destino": "Sameiro",
+            "distancia": 3500,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 5,
+            "inclinacao": 8.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Atalho do Jardim",
+            "origem": "Praça Central",
+            "destino": "Jardim Municipal",
+            "distancia": 300,
+            "ar": 1,
+            "ruido": 2,
+            "verde": 5,
+            "inclinacao": 0.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Avenida Central",
+            "origem": "Teatro Principal",
+            "destino": "Praça Central",
+            "distancia": 300,
+            "ar": 3,
+            "ruido": 4,
+            "verde": 2,
+            "inclinacao": 0.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Avenida do Conhecimento",
+            "origem": "Hospital",
+            "destino": "UMinho",
+            "distancia": 900,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Caminho da Faculdade",
+            "origem": "UMinho",
+            "destino": "Centro Comercial",
+            "distancia": 700,
+            "ar": 4,
+            "ruido": 4,
+            "verde": 1,
+            "inclinacao": 1.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Caminho do Parque",
+            "origem": "Parque Norte",
+            "destino": "Hospital",
+            "distancia": 1200,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 2.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Conexão Museu",
+            "origem": "Museu de Arte",
+            "destino": "Parque Norte",
+            "distancia": 1500,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 1.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Ligação ao Centro",
+            "origem": "Centro Comercial",
+            "destino": "Teatro Principal",
+            "distancia": 1000,
+            "ar": 4,
+            "ruido": 4,
+            "verde": 2,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Passeio do Rio",
+            "origem": "Biblioteca",
+            "destino": "Rio Este",
+            "distancia": 600,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 0.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua da Estação",
+            "origem": "Arco da Porta Nova",
+            "destino": "Estação",
+            "distancia": 800,
+            "ar": 4,
+            "ruido": 4,
+            "verde": 1,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua das Escolas",
+            "origem": "Teatro Principal",
+            "destino": "Biblioteca",
+            "distancia": 500,
+            "ar": 3,
+            "ruido": 3,
+            "verde": 2,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua do Museu",
+            "origem": "Sé",
+            "destino": "Museu de Arte",
+            "distancia": 250,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 3,
+            "inclinacao": 0.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua do Souto",
+            "origem": "Praça Central",
+            "destino": "Sé",
+            "distancia": 400,
+            "ar": 1,
+            "ruido": 3,
+            "verde": 1,
+            "inclinacao": 0.0,
+            "pavimento": "irregular"
+        },
+        {
+            "nome": "Rua dos Biscainhos",
+            "origem": "Sé",
+            "destino": "Arco da Porta Nova",
+            "distancia": 300,
+            "ar": 1,
+            "ruido": 2,
+            "verde": 2,
+            "inclinacao": 0.0,
+            "pavimento": "irregular"
+        },
+        {
+            "nome": "Subida do Bom Jesus",
+            "origem": "Hospital",
+            "destino": "Bom Jesus",
+            "distancia": 1800,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 15.0,
+            "pavimento": "escadas"
+        },
+        {
+            "nome": "Travessa do Campo",
+            "origem": "Mercado Central",
+            "destino": "Estádio",
+            "distancia": 1500,
+            "ar": 3,
+            "ruido": 2,
+            "verde": 2,
+            "inclinacao": 2.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Via da Montanha",
+            "origem": "Sameiro",
+            "destino": "Praça Central",
+            "distancia": 4000,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 5,
+            "inclinacao": 10.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Via do Estádio",
+            "origem": "Estádio",
+            "destino": "Parque Norte",
+            "distancia": 500,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Via do Mercado",
+            "origem": "Estação",
+            "destino": "Mercado Central",
+            "distancia": 400,
+            "ar": 3,
+            "ruido": 4,
+            "verde": 1,
+            "inclinacao": 0.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Avenida 25 de Abril",
+            "origem": "Estação",
+            "destino": "Parque Norte",
+            "distancia": 1400,
+            "ar": 3,
+            "ruido": 3,
+            "verde": 2,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Via Rápida",
+            "origem": "Estádio",
+            "destino": "Hospital",
+            "distancia": 4500,
+            "ar": 4,
+            "ruido": 5,
+            "verde": 1,
+            "inclinacao": 3.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Caminho Ribeirinho",
+            "origem": "Mercado Central",
+            "destino": "Rio Este",
+            "distancia": 2000,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 0.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua Direita",
+            "origem": "Centro Comercial",
+            "destino": "Sé",
+            "distancia": 1200,
+            "ar": 3,
+            "ruido": 3,
+            "verde": 1,
+            "inclinacao": 0.5,
+            "pavimento": "irregular"
+        },
+        {
+            "nome": "Avenida da Liberdade",
+            "origem": "Arco da Porta Nova",
+            "destino": "Teatro Principal",
+            "distancia": 800,
+            "ar": 4,
+            "ruido": 4,
+            "verde": 2,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Passeio das Virtudes",
+            "origem": "Jardim Municipal",
+            "destino": "Bom Jesus",
+            "distancia": 3500,
+            "ar": 2,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 12.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Rua Nova",
+            "origem": "UMinho",
+            "destino": "Parque Norte",
+            "distancia": 1800,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 3,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Via dos Peões",
+            "origem": "Biblioteca",
+            "destino": "Centro Comercial",
+            "distancia": 900,
+            "ar": 1,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 0.5,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Circular Norte",
+            "origem": "Hospital",
+            "destino": "Praça Central",
+            "distancia": 2500,
+            "ar": 4,
+            "ruido": 4,
+            "verde": 2,
+            "inclinacao": 2.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Eixo Verde",
+            "origem": "Museu de Arte",
+            "destino": "Jardim Municipal",
+            "distancia": 600,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 0.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Atalho dos Estudantes",
+            "origem": "UMinho",
+            "destino": "Bom Jesus",
+            "distancia": 1500,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 10.0,
+            "pavimento": "escadas"
+        },
+        {
+            "nome": "Marginal Sul",
+            "origem": "Teatro Principal",
+            "destino": "Rio Este",
+            "distancia": 1100,
+            "ar": 2,
+            "ruido": 2,
+            "verde": 4,
+            "inclinacao": 1.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Estrada Velha",
+            "origem": "Hospital",
+            "destino": "Sameiro",
+            "distancia": 5000,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 5,
+            "inclinacao": 9.0,
+            "pavimento": "regular"
+        },
+        {
+            "nome": "Beco das Artes",
+            "origem": "Museu de Arte",
+            "destino": "Biblioteca",
+            "distancia": 400,
+            "ar": 1,
+            "ruido": 1,
+            "verde": 3,
+            "inclinacao": 0.0,
+            "pavimento": "irregular"
+        },
+        {
+            "nome": "Rua do Comércio",
+            "origem": "Mercado Central",
+            "destino": "Arco da Porta Nova",
+            "distancia": 600,
+            "ar": 3,
+            "ruido": 4,
+            "verde": 1,
+            "inclinacao": 0.5,
+            "pavimento": "regular"
+        }
+    ]
+}
